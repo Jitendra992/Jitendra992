@@ -1,10 +1,12 @@
 # 👋 Hi, I’m Jitendra
 
 ## 👨‍💻 Frontend Developer
+ ![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJvaXBlM3VzbnZscG5ydzUyemxmbDZwZHk0Zm5wbWJwN2w4dnBtbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 I'm passionate about creating beautiful and user-friendly web applications. Currently, I’m exploring modern frontend technologies and working on exciting projects.
 
-### 🌱 Currently Learning
+### 🌱 Currently Learning                                                                              
+
 - React.js and its ecosystem
 - Java Script
 - Advanced CSS techniques
@@ -25,9 +27,6 @@ I once built a fully functional web app in just 48 hours during a hackathon!
 
 ---
 
-### 🚀 Check Out My Coding GIF
-
-![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJvaXBlM3VzbnZscG5ydzUyemxmbDZwZHk0Zm5wbWJwN2w4dnBtbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 ---
 
