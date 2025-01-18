@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jitendra
 
-## 👨‍💻 Frontend Developer
+## 👨‍💻 Front-end Developer
  ![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJvaXBlM3VzbnZscG5ydzUyemxmbDZwZHk0Zm5wbWJwN2w4dnBtbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 I'm passionate about creating beautiful and user-friendly web applications. Currently, I’m exploring modern frontend technologies and working on exciting projects.
